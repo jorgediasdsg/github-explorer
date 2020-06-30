@@ -2,3 +2,4 @@ node_modules
 yarn.lock
 yarn.lock/*
 src/yarn.lock
+*.lock
