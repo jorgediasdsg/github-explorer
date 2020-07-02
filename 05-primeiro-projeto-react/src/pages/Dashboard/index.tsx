@@ -21,7 +21,7 @@ const Dashboard: React.FC = () => {
           />
           <div>
             <strong>jorgediasdsg/github-explorer</strong>
-            <p>Projeto de treinmaneot de aula do promeiro projeto de ReactJS</p>
+            <p>Projeto de treinamento de aula do primeiro projeto de ReactJS</p>
           </div>
           <FiChevronRight size={20} />
         </a>
